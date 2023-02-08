@@ -1,0 +1,38 @@
+.wb{
+    background-color: rgba(229, 229, 229, 0.949);
+    color: #1a1a1b;
+}
+.wb-chapter{
+    background-color: rgba(229, 229, 229, 0.949);
+    color: #1a1a1b;
+    font-size:50px;
+}
+.bw{
+    color: rgba(229, 229, 229, 0.949);
+    background-color: #1a1a1b;
+}
+.bw-chapter{
+    color: rgba(229, 229, 229, 0.949);
+    background-color: #1a1a1b;
+    font-size:50px;
+}
+p{
+    text-align:left;
+    font-family: 'EB Garamond';
+    font-size:15px;
+    margin-bottom: 50px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+.button.wb{
+    color: #1a1a1b;
+    border-color: #1a1a1b;
+}
+.button.bw{
+    color: rgba(229, 229, 229, 0.949);
+    border-color: rgba(229, 229, 229, 0.949);
+}
+.button.bw:hover,.button.wb:hover{
+    color: rgba(122, 122, 122, 0.949);
+    border-color: rgba(122, 122, 122, 0.949);
+}
