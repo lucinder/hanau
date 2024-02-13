@@ -24,6 +24,9 @@ p{
     margin-left: 25px;
     margin-right: 25px;
 }
+br{
+    margin-bottom: 50px;
+}
 .button.wb{
     color: #1a1a1b;
     border-color: #1a1a1b;
