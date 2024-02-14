@@ -1,6 +1,6 @@
 It opens up a block of white text against the bright blue background.
 <br>
-<div style="font-family: 'Courier New', monospace; background-color:#0000ff; color:#ffffff; margin-left:10px;">
+<div style="font-family: 'Courier New', monospace; background-color:#0000ff; color:#ffffff; padding-left:10px;">
 EXPERIMENT ID: SBJ 3999
 <br style="margin-top:10px; margin-bottom:20px">
 TYPE: ENTITY, NONLIVING, CHEMICAL ANOMALY, MULTIPLE SUBUNITS (4)
