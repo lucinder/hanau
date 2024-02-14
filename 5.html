@@ -33,12 +33,14 @@
         if(updateable[i].classList.contains("button")){
             updateable[i].style.borderColor = textcolor[section];
         }
-        if(i == 6){
-            updateable[i].style.fontFamily = "Courier New";
-        } else {
-            updateable[i].style.fontFamily = "EB Garamond";
+        if(!(updateable[i].classList.contains("button") || updateable[i].classList.contains("wb-chapter"))){
+            if(i == 6){
+                updateable[i].style.fontFamily = "'Courier New', monospace";
+            } else {
+                updateable[i].style.fontFamily = "EB Garamond";
+            }
         }
-        }
+      }
       const body = document.getElementById("chapterText");
       const target = "text/5-"+section+".txt";
       fetch(target)
