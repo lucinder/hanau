@@ -34,6 +34,7 @@
             updateable[i].style.borderColor = textcolor[section];
         }
         if(!(updateable[i].classList.contains("button") || updateable[i].classList.contains("wb-chapter"))){
+            console.log("Updating body font for element " + updateable[i].classList);
             if(i == 6){
                 updateable[i].style.fontFamily = "'Courier New', monospace";
             } else {
