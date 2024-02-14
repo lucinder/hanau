@@ -25,7 +25,7 @@
     function advance(){
       section++;
       console.log("Updating to section " + section);
-      var updateable = document.getElementsByTagName("wb");
+      var updateable = document.getElementsByClassName("wb");
       for(var i=0, l=updateable.length; i<l; i++){
         updateable[i].style.background = backgrounds[section];
         }
