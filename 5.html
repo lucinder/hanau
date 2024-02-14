@@ -18,24 +18,48 @@
   </script>
   <script src="https://daks2k3a4ib2z.cloudfront.net/0globals/modernizr-2.7.1.js" type="text/javascript"></script>
   <script type="text/javascript" src="contentloader.js"></script>
+  <script type="text/javascript">
+    let section=0;
+    const backgrounds = ["#0c2813","#9ff4bf","#0c2813","#28240c","#0c2813","#0c2813","#000000","#fcc7c8","#0c2821","#0c2813","#28240c","#ff0000","#fcc7c8","#0c2813","#0c2813"];
+    const textcolor = ["#ffffff","#000000","#ffffff","#ffffff","#ffffff","#ffffff","#00ff00","#000000","#ffffff","#ffffff","#ffffff","#ffffff","#000000","#ffffff","#ffffff"];
+    function advance(){
+      section++;
+      document.body.style.background = backgrounds[section];
+      document.body.style.color = textcolor[section];
+      const body = document.getElementById("chapterText");
+      fetch("text/5-"+section+".txt")
+          .then(response => {
+              if (!response.ok) {
+              throw new Error('Invalid response from network when loading file contents!');
+              }
+              return response.text();
+          })
+          .then(contents => {
+              body.innerHTML = contents;
+          })
+          .catch(error => {
+              console.error('Error:', error);
+          });
+    }
+    </script>
   <link href="wbbw.css" rel="stylesheet" type="text/css">
 </head>
-  <body class="bw" onload="loadChapterText(4)">
+  <body class="wb" onload="advance()">
     <div class="hero" style="background-image:none;">
       <div class="nav-bar w-nav">
         <div class="w-container">
           <a class="brand-link w-nav-brand w--current" href="https://lucinder.github.io/hanau/">
-            <h1 class="logo bw font-efect-anaglyph">HOPENAHĀNAU</h1>
+            <h1 class="logo wb font-efect-anaglyph">HOPENAHĀNAU</h1>
           </a>
         </div>
       </div>
       <div class="hero-container w-container" style="margin-top:100px">
-        <div class="hero-subtitle bw-chapter">CHAPTER 4</div>
-        <br style="margin-bottom:50px;">
+        <div class="hero-subtitle wb-chapter">CHAPTER 5</div>
+        <br>
         <p id="chapterText"></p>
         <br>
-        <a class="big button w-button bw" onclick="prevChapter(4)">Previous Chapter</a>
-        <a class="big button w-button bw" onclick="nextChapter(4)">Next Chapter</a>
+        <a class="big button w-button" onclick="prevChapter(5)">Previous Chapter</a>
+        <!-- <a class="big button w-button wb" onclick="nextChapter(5)">Next Chapter</a> -->
       </div>
       <br style="margin-bottom:100px;">
     </div>
