@@ -9,5 +9,5 @@ Ghomuera sat down, accepting one from the pack, “If I fancy the occasion. Sinc
 <br>
 Mojira made a happy peeping noise, wishing she could respond to flirts in turn in a way the other could understand. She leaned into the other girl’s shoulder as the two gazed at the waves, rising and falling, indistinct from the horizon except for the glimmers of moonlight illuminating their surface. Here in the darkness, under the bridge, their secrets were safe, as long as they were lucky with the passers-by. The law can’t catch what it can’t see.
 <br>
-After a deep, pensive-looking drag, like the textbook image of a film noir detective, Ghomuera curled a hand beneath Mojira’s chin, tilting her head up so their eyes met, and
+After a deep, pensive-looking drag, like the textbook image of a film noir detective, Ghomuera curled a hand beneath Mojira’s chin, tilting her head up so <b><a onclick="advance()">their eyes met, and</a></b>
 </em>
