@@ -35,7 +35,7 @@
         }
       const body = document.getElementById("chapterText");
       const target = "text/5-"+section+".txt";
-      fetch(targe)
+      fetch(target)
           .then(response => {
               if (!response.ok) {
               throw new Error('Invalid response from network when loading file contents!');
