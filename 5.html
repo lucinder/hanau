@@ -8,7 +8,7 @@
     <link href="https://daks2k3a4ib2z.cloudfront.net/560eb94ab52962bd77dfcf14/css/template-method.webflow.cd9516ad2.css" rel="stylesheet" type="text/css">
     <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.4.7/webfont.js"></script>
     <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Roboto:300,500%7CRoboto+Slab=">
-    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=EB+Garamond">
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=EB+Garamond&effect=anaglyph">
     <link rel="icon" href="https://lucinder.github.io/lucinder_logo.png">
     <script type="text/javascript">WebFont.load({
     google: {
@@ -33,7 +33,7 @@
         if(updateable[i].classList.contains("button")){
             updateable[i].style.borderColor = textcolor[section];
         }
-        if(!(updateable[i].classList.contains("button") || updateable[i].classList.contains("wb-chapter"))){
+        if(updateable[i].classList.contains("p")){
             console.log("Updating body font for element " + updateable[i].classList);
             if(i == 6){
                 updateable[i].style.fontFamily = "'Courier New', monospace";
@@ -67,7 +67,7 @@
       <div class="nav-bar w-nav">
         <div class="w-container">
           <a class="brand-link w-nav-brand w--current" href="https://lucinder.github.io/hanau/">
-            <h1 class="logo wb font-efect-anaglyph">HOPENAHĀNAU</h1>
+            <h1 class="logo wb font-effect-anaglyph">HOPENAHĀNAU</h1>
           </a>
         </div>
       </div>
