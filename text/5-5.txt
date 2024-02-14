@@ -1,6 +1,6 @@
 It opens up a block of white text against the bright blue background.
 <br>
-<div style="font-family: 'Courier New', monospace; background-color:#0000ff; color:#ffffff; padding-left:20px;">
+<b><div style="font-family: 'Courier New', monospace; background-color:#0000ff; color:#ffffff; padding-left:20px;">
 EXPERIMENT ID: SBJ 3999
 <br style="margin-top:10px; margin-bottom:20px">
 TYPE: ENTITY, NONLIVING, CHEMICAL ANOMALY, MULTIPLE SUBUNITS (4)
@@ -11,7 +11,7 @@ WARNINGS: EXTREME HEAT, HIGH RADIATION, EXTREME ACUTE FORCE, HIGH COGNITOHAZARD,
 <br style="margin-bottom:20px">
 ADDITIONAL PERMISSIONS ARE REQUIRED TO VIEW THE CONTENTS OF THIS ENTRY.
 <br style="margin-bottom:10px">
-</div>
+</div></b>
 <br>
 “This seems to be it,” I nod at the screen. Strange, I think my focus must’ve slipped, since I don’t remember what I entered into the kernel to get here.
 <br>
