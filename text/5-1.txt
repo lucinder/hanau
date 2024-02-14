@@ -1,5 +1,5 @@
 <em>
 An orrery hangs above a rather plain white room. In one corner, there is what looks to be a crib, though it has a broken leg and seems ready to collapse at any moment. There are items strewn across the floor that would suggest a toddler made its residence here. And some that wouldn’t. Mixed among chew-toys, dolls, and rattles are a solved rubix cube, a book of sudoku puzzles that’s mostly completed, and several books. Not picture books, mind you- novels. 1984. The Second Sex. Frankenstein. National Audubon Society Field Guide to the Mid-Atlantic States. It’s clear that the occupant of this room did not choose these titles, but rather, they are the borrowed favorites of their overseers.
 <br>
-The room has been uninhabited for <a onclick=advance()>three</a>
+The room has been uninhabited for <a href="" onclick="advance()">three</a>
 </em>

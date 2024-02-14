@@ -26,4 +26,4 @@ I wasn’t expecting the question, but I manage, “Ah, um, sort of? I know Basi
 <br>
 “Well, if it’s a totally different model, it might- I mean, not the Commodore, then it might not support Basic- but-” I shut myself up, considering he’s giving me a look like he doesn’t understand a word I’m saying, and resign to, “…I guess I can take a look.”
 <br>
-“Damn right you can! I’ll watch your back,” he gives a thumbs up, and I try the nearest door- unlocked. Peering inside, I <a onclick="advance()">see</a>
+“Damn right you can! I’ll watch your back,” he gives a thumbs up, and I try the nearest door- unlocked. Peering inside, I <a href="" onclick="advance()">see</a>

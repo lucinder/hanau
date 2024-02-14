@@ -28,8 +28,8 @@
       var updateable = document.getElementsByClassName("wb");
       for(var i=0, l=updateable.length; i<l; i++){
         updateable[i].style.background = backgrounds[section];
+        updateable[i].style.color = textcolor[section];
         }
-      document.body.style.color = textcolor[section];
       const body = document.getElementById("chapterText");
       fetch("text/5-"+section+".txt")
           .then(response => {
@@ -62,7 +62,7 @@
         <br>
         <p id="chapterText"></p>
         <br>
-        <a class="big w-button button" onclick="prevChapter(5)">Previous Chapter</a>
+        <a class="big w-button button wb" onclick="prevChapter(5)">Previous Chapter</a>
         <!-- <a class="big button w-button wb" onclick="nextChapter(5)">Next Chapter</a> -->
       </div>
       <br style="margin-bottom:100px;">

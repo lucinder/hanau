@@ -5,5 +5,5 @@ The child smiled. She twirled her dress around for all to see, “Pópó said I 
 <br>
 “Silver on dark blue, I can see that,” I smiled. Quickly turned to Ace, my expression begging to know if I was doing this right, but she was already gone.
 <br>
-Turning back to the child, she was jumping and spinning around, singing “lalalalala-“ to the tune of something I didn’t recognize. I waved her back over, “Sweetie, you want to hear a song about the moon? It goes like this. When the moon hits your eye like a big pizza pie, <a onclick=advance()>that’s</a>
+Turning back to the child, she was jumping and spinning around, singing “lalalalala-“ to the tune of something I didn’t recognize. I waved her back over, “Sweetie, you want to hear a song about the moon? It goes like this. When the moon hits your eye like a big pizza pie, <a href="" onclick="advance()">that’s</a>
 </em>
