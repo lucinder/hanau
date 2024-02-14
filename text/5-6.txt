@@ -1,4 +1,4 @@
-<b><div style="font-family:'Courier New', monospace;"><a onclick="advance()">
+<b><div style="font-family:'Courier New', monospace; -webkit-font-smoothing: none;"><a onclick="advance()">
 LOG DATE: 4-19-69
 <br>
 TITLE: ANATOMICAL OBSERVATIONS ON THE 3999-SERIES SUBJECTS

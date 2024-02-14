@@ -40,3 +40,58 @@ br{
     color: rgba(122, 122, 122, 0.949);
     border-color: rgba(122, 122, 122, 0.949);
 }
+
+.unstable {
+    color: white;
+    font-size: 100px;
+    position: relative;
+    width: 400px;
+    margin: 0 auto;
+  }
+  @keyframes noise-anim {
+    $steps: 20;
+    @for $i from 0 through $steps {
+      #{percentage($i*(1/$steps))} {
+        $top: random(100);
+        $bottom: random(101 - $top);
+        $topWithPercent: $top * 1%;
+        $bottomWithPercent: $bottom * 1%;
+        clip-path: inset(#{$topWithPercent} 0 #{$bottomWithPercent} 0);
+      }
+    }
+  }
+  .unstable::after {
+    content: attr(data-text);
+    position: absolute;
+    left: 4px;
+    text-shadow: -1px 0 red;
+    top: 0;
+    color: white;
+    background: black;
+    overflow: hidden;
+    animation: noise-anim 2s infinite linear alternate-reverse;
+  }
+  
+  @keyframes noise-anim-2 {
+    $steps: 20;
+    @for $i from 0 through $steps {
+      #{percentage($i*(1/$steps))} {
+        $top: random(100);
+        $bottom: random(101 - $top);
+        $topWithPercent: $top * 1%;
+        $bottomWithPercent: $bottom * 1%;
+        clip-path: inset(#{$topWithPercent} 0 #{$bottomWithPercent} 0);
+      }
+    }
+  }
+  .unstable::before {
+    content: attr(data-text);
+    position: absolute;
+    left: -4px;
+    text-shadow: 1px 0 blue;
+    top: 0;
+    color: white;
+    background: black;
+    overflow: hidden;
+    animation: noise-anim-2 15s infinite linear alternate-reverse;
+  }
