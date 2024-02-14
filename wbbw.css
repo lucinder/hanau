@@ -25,15 +25,15 @@ p{
 br{
     margin-bottom: 50px;
 }
-.button.wb{
+.button.big.wb{
     color: #1a1a1b;
     border-color: #1a1a1b;
 }
-.button.bw{
+.button.big.bw{
     color: rgba(229, 229, 229, 0.949);
     border-color: rgba(229, 229, 229, 0.949);
 }
-.button.bw:hover,.button.wb:hover{
+.button.big.bw:hover,.button.big.wb:hover{
     color: rgba(122, 122, 122, 0.949);
     border-color: rgba(122, 122, 122, 0.949);
 }

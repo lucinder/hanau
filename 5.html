@@ -24,7 +24,12 @@
     const textcolor = ["#ffffff","#000000","#ffffff","#ffffff","#ffffff","#ffffff","#00ff00","#000000","#ffffff","#ffffff","#ffffff","#ffffff","#000000","#ffffff","#ffffff"];
     function advance(){
       section++;
-      document.body.style.background = backgrounds[section];
+      console.log("Updating to section " + section);
+      document.getElementsByClassName("wb").style.background = backgrounds[section];
+      var updateable = document.getElementsByTagName("wb");
+      for(var i=0, l=updateable.length; i<l; i++){
+        updateable[i].style.background = backgrounds[section];
+        }
       document.body.style.color = textcolor[section];
       const body = document.getElementById("chapterText");
       fetch("text/5-"+section+".txt")
@@ -58,7 +63,7 @@
         <br>
         <p id="chapterText"></p>
         <br>
-        <a class="big button w-button" onclick="prevChapter(5)">Previous Chapter</a>
+        <a class="big w-button button" onclick="prevChapter(5)">Previous Chapter</a>
         <!-- <a class="big button w-button wb" onclick="nextChapter(5)">Next Chapter</a> -->
       </div>
       <br style="margin-bottom:100px;">
