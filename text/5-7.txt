@@ -15,5 +15,5 @@ It bowed its head, understanding its place beneath the will of its fellow shatte
 <br>
 “Query: their will?”
 <br>
-“Return: they ask <b><a onclick=advance()>to</a></b>
+“Return: <b><a onclick=advance()>they ask to</a></b>
 </em>

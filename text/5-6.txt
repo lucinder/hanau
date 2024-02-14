@@ -1,5 +1,7 @@
+<div style="font-family:'Courier New', monospace;">
 LOG DATE: 4-19-69
 <br>
 TITLE: ANATOMICAL OBSERVATIONS ON THE 3999-SERIES SUBJECTS
 <br>
 LOG: Subjects appear to have a primary “torso” of spherical shape appx. 0.9-1.0 in. in diameter, from which 7 retractable appendages resembling tentacles are connected. Appendages are typically kept at 5 ft. long but can extend up to 10 ft. or retract entirely into the torso area. When appendages are retracted or wrapped around the torso, each 3999 subject is no larger than a child’s fist, and can easily fit in the palm of one’s hand. Subjects have grown significantly since initial capture, wherein torso diameter was measured as 0.5 in., and only four appendages were observed, measuring 0.5 in. in length at maximum <b><a onclick="advance()">extension.</a></b>
+</div>
