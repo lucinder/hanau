@@ -1,0 +1,38 @@
+It opens up a block of white text against the bright blue background.
+<br>
+<div style="font-family: 'Courier New', monospace; background-color:#000000; color:#00ff00;">
+EXPERIMENT ID: SBJ 3999
+<br style="margin-bottom:20px">
+TYPE: ENTITY, NONLIVING, CHEMICAL ANOMALY, MULTIPLE SUBUNITS (4)
+<br style="margin-bottom:20px">
+THREAT LEVEL: CHESED – GOTTERDAMMERUNG
+<br style="margin-bottom:20px">
+WARNINGS: EXTREME HEAT, HIGH RADIATION, EXTREME ACUTE FORCE, HIGH COGNITOHAZARD, UNEXPLAINED MANIFESTATIONS OF NEURAL INJURY AND INCAPACITATION, ANAEROBIC CONTAINMENT UNIT, HIGH-TEMPERATURE CONTAINMENT UNIT, SAPIENT MISANTHROPE, REQUIRES SPECIAL CONTAINMENT EQUIPMENT
+<br style="margin-bottom:20px">
+ADDITIONAL PERMISSIONS ARE REQUIRED TO VIEW THE CONTENTS OF THIS ENTRY.
+<br style="margin-bottom:20px">
+</div>
+<br>
+“This seems to be it,” I nod at the screen. Strange, I think my focus must’ve slipped, since I don’t remember what I entered into the kernel to get here.
+<br>
+Blackjack smiles, turning to scan over the screen, “Nice one, newbie! Lemme ask Dai, see if we can get those passwords for ya…”
+<br>
+“Passwords?” I quietly ask, mostly to myself, since this is probably just part of his plan of action.
+<br>
+He starts fiddling with the earpiece, but before he can say a word, we hear a new voice over the mic.
+<br>
+“Now this is a rather interesting turn of events.”
+<br>
+It sounds around Blackjack’s age, with a bit of an archaic dialect. My first assumption is that it’s one of the scientists, and they managed to hijack our frequency somehow. Then I realize it’s most likely Ace putting on a new disguise without telling us. But <em>then</em> then, it says something entirely to the contrary.
+<br>
+“How did I get a hold of this frequency? I had no need to. A mouth can speak, organic or otherwise.”
+<br>
+“Wh- who- the hell is this!?” Blackjack shouts into the earpiece, furiously doing 360s in place to scan the room. My heart is pounding again. <em>This isn’t supposed to happen, right? Right?</em>
+<br>
+“Your coworkers found me upon the operating table, rudely interrupting a delicate procedure that the captors here failed to fully neutralize me for. They are ill-practiced in such operations, but I am not permitted to complain to them. Perhaps you might bear the brunt of my dissatisfaction,” the voice briefly takes on a bit of a playful tone, then swiftly dissolves into garbled static before going silent.
+<br>
+Blackjack is quiet. Looking at him, his expression seems… bewildered? Panic is seizing me, probably ten times worse than anything he’s feeling. Because if Blackjack doesn’t have the situation under control, no one does. Whatever’s on the mic, what if it killed the others? What if we’re stuck here? What if, what if-
+<br>
+<em>Stop thinking</em>. I tap on my own mic, and reach out, struggling to shape my voice into words, “A- d- d- Dai? Ace? Are- are, um, are you guys in the room with… who- whoever that voice is?”
+<br>
+To my immense relief, there comes a quiet reply from Dai, “…Yes. It’s… I can’t… describe it. It’s <b><a onclick="advance()">like a</a></b>

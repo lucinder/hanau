@@ -1,0 +1,1 @@
+“Maybe we could be friends,” I <b><a onclick="advance()">thought.</a></b>

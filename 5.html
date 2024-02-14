@@ -33,7 +33,7 @@
         if(updateable[i].classList.contains("button")){
             updateable[i].style.borderColor = textcolor[section];
         }
-        if(updateable[i].classList.contains("p")){
+        if(updateable[i].id == "chapterText"){
             console.log("Updating body font for element " + updateable[i].classList);
             if(i == 6){
                 updateable[i].style.fontFamily = "'Courier New', monospace";
