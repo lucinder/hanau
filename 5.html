@@ -19,13 +19,12 @@
   <script src="https://daks2k3a4ib2z.cloudfront.net/0globals/modernizr-2.7.1.js" type="text/javascript"></script>
   <script type="text/javascript" src="contentloader.js"></script>
   <script type="text/javascript">
-    let section=0;
+    let section=-1;
     const backgrounds = ["#0c2813","#9ff4bf","#0c2813","#28240c","#0c2813","#0c2813","#000000","#fcc7c8","#0c2821","#0c2813","#28240c","#ff0000","#fcc7c8","#0c2813","#0c2813"];
     const textcolor = ["#ffffff","#000000","#ffffff","#ffffff","#ffffff","#ffffff","#00ff00","#000000","#ffffff","#ffffff","#ffffff","#ffffff","#000000","#ffffff","#ffffff"];
     function advance(){
       section++;
       console.log("Updating to section " + section);
-      document.getElementsByClassName("wb").style.background = backgrounds[section];
       var updateable = document.getElementsByTagName("wb");
       for(var i=0, l=updateable.length; i<l; i++){
         updateable[i].style.background = backgrounds[section];

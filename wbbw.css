@@ -25,11 +25,11 @@ p{
 br{
     margin-bottom: 50px;
 }
-.button.big.wb{
+.button.big .button.wb{
     color: #1a1a1b;
     border-color: #1a1a1b;
 }
-.button.big.bw{
+.button.big .button.bw{
     color: rgba(229, 229, 229, 0.949);
     border-color: rgba(229, 229, 229, 0.949);
 }
