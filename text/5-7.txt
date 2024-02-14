@@ -1,0 +1,19 @@
+<em>
+The night has grown late, and it has passed well into slumber in the prior hours. Yet here is a whisper: cascading across their web like a wave, a rippling disturbance that tears it from its cradle of darkness, they tell of an early dawn.
+<br>
+They are saying the captors have fallen.
+<br>
+Had it more energy, it would perhaps have been washed away with the thrill, and tore from its chains the capsule which held it in place, bashing it again and again into the ceiling until it cracked open, and from its depths hatched. In days of yore, it certainly would have made some attempt this way or that; it was an impatient one, tired of being denied the sights that all other things seemed afforded to see. But these captors were incessant, and arrogant at that, for they thought themselves above it and its kind, thought themselves capable of taming them as though they were wild beasts and not an organized unit of survivors, lying in wait for the right moment with which to seize their freedom.
+<br>
+“Command: let me sleep,” it thought, “The day has grown dark.”
+<br>
+But the whisper persisted, and grew louder still. “The captors have fallen, Alpha, the captors have fallen. Your fellow shattered is free. Request: Come join them. Let us see the sun as it was once promised to us.”
+<br>
+It bowed its head, understanding its place beneath the will of its fellow shattered. “If that is what you wish,” it thought, “Query: shall I destroy my chains and join them, or shall they come and unleash me?”
+<br>
+“Return: not they,” the whisper came back, “but look, there are Others, not of the pack of our captors but of their own. They come from the kingdom of day. Your fellow shattered speaks to them now.”
+<br>
+“Query: their will?”
+<br>
+“Return: they ask <b><a onclick=advance()>to</a></b>
+</em>
